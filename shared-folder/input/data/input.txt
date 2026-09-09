@@ -1,1 +1,6 @@
 # Create your own input dataset
+Cloud computing has changed the way software is developed and deployed. Cloud platforms provide computing resources, storage, networking, and other services that can be accessed on demand. Developers can use cloud resources to build applications without managing physical infrastructure.
+
+DevOps brings development and operations teams together to improve the software development process. DevOps practices encourage automation, continuous integration, continuous delivery, monitoring, and collaboration. Automation helps teams deploy software faster and reduces repetitive manual work.
+
+Cloud computing and DevOps work well together because cloud platforms make it easier to automate infrastructure and application deployment. Containers, orchestration, monitoring, and automated pipelines are commonly used in modern cloud environments. A good DevOps process helps teams deliver reliable software while using cloud resources efficiently.
